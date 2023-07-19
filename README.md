@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sayan Dutta
 - 👀 I’m interested in C++,C,Java and other coding languages.
 - 🌱 I’m currently learning Web developpment
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mailing me in my mail id- duttasayan947595@gmail.com
+- 💞️ I’m looking to collaborate on Projects related to WEb Development
+- 📫 Reach me by mailing me in my mail id- duttasayan947595@gmail.com
 - Thanks for visiting profile
 
 <!---
