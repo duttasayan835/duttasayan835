@@ -15,28 +15,27 @@
   <img src="https://raw.githubusercontent.com/duttasayan835/assets/main/particles.gif" width="90%" height="40px"/>
 </div>
 
-## 🚀 About Me: The Innovation Architect
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/duttasayan835/assets/main/cyber-brain.gif" width="300" align="right" style="border-radius: 20px; box-shadow: 0 0 30px rgba(255,0,255,0.4);"/>
-</p>
+## 👨‍💻 About Me
 
-```javascript
-const sayan = {
-  domain: "AI + Web + Real World Integration",
-  currentFocus: "Deep Learning for Healthcare Solutions",
-  exploring: ["GenAI", "LLMs", "Quantum ML", "Neural Interfaces"],
-  techStack: {
-    frontend: ["React", "Vite", "Three.js", "Tailwind"],
-    backend: ["TensorFlow", "PyTorch", "Node.js", "FastAPI"],
-    databases: ["MongoDB", "Neo4j", "Supabase"],
-    devOps: ["Docker", "Kubernetes", "GitHub Actions"]
-  },
-  philosophy: "Build solutions that make atoms and bits dance together",
-  collaborationStatus: "OPEN for innovative projects"
-};
-```
+🚀 **Domain**: `AI + Web + Real World Integration`  
+💉 **Focus**: `Deep Learning for Healthcare`  
+🧪 **Exploring**:  
+> 🧠 GenAI & LLMs  
+> 🧬 Quantum ML  
+> 🧠 Neural Interfaces  
 
+🛠 **Tech Stack**:
+- 🎨 Frontend: `React`, `Vite`, `Three.js`, `Tailwind`
+- ⚙️ Backend: `TensorFlow`, `PyTorch`, `Node.js`, `FastAPI`
+- 💾 Databases: `MongoDB`, `Neo4j`, `Supabase`
+- 🚢 DevOps: `Docker`, `Kubernetes`, `GitHub Actions`
+
+🎯 **Philosophy**: *“Build solutions that make atoms and bits dance together”*  
+🤝 **Collaboration**: Always open to **innovative project ideas**
+
+---
 <div align="center">
   <img src="https://raw.githubusercontent.com/duttasayan835/assets/main/holo-divider.png" width="90%"/>
 </div>
